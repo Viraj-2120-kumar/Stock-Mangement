@@ -1,0 +1,22 @@
+-- Sample data for Products_Info table
+INSERT INTO Products_Info (name, category, company, quantity, price) VALUES
+('Laptop Dell XPS 13', 'Electronics', 'Dell', 15, 89999.00),
+('Laptop HP Pavilion', 'Electronics', 'HP', 20, 65999.00),
+('Samsung Galaxy S24', 'Electronics', 'Samsung', 30, 79999.00),
+('iPhone 15 Pro', 'Electronics', 'Apple', 25, 119999.00),
+('Sony WH-1000XM5 Headphones', 'Electronics', 'Sony', 40, 29999.00),
+('iPad Air', 'Electronics', 'Apple', 18, 59999.00),
+('Samsung 43" Smart TV', 'Electronics', 'Samsung', 12, 45999.00),
+('LG 32" Monitor', 'Electronics', 'LG', 35, 22999.00),
+('Canon EOS R50 Camera', 'Electronics', 'Canon', 8, 89999.00),
+('Nike Air Max Shoes', 'Footwear', 'Nike', 50, 8999.00),
+('Adidas Running Shoes', 'Footwear', 'Adidas', 45, 6999.00),
+('Puma Casual Shoes', 'Footwear', 'Puma', 60, 4999.00),
+('Reebok Sports Shoes', 'Footwear', 'Reebok', 40, 5999.00),
+('Levi''s Jeans', 'Clothing', 'Levi''s', 70, 3999.00),
+('Van Heusen Shirt', 'Clothing', 'Van Heusen', 55, 2499.00),
+('Peter England Shirt', 'Clothing', 'Peter England', 65, 1999.00),
+('Raymond Suit', 'Clothing', 'Raymond', 25, 12999.00),
+('Titan Watch', 'Accessories', 'Titan', 80, 3999.00),
+('Fastrack Watch', 'Accessories', 'Fastrack', 90, 2999.00),
+('Sonata Watch', 'Accessories', 'Sonata', 100, 1999.00);
